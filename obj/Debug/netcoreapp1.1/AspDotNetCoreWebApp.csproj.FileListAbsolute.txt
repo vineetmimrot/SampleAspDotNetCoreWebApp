@@ -1,0 +1,9 @@
+c:\users\vimimrot\documents\visual studio 2017\Projects\AspDotNetCoreWebApp\AspDotNetCoreWebApp\bin\Debug\netcoreapp1.1\AspDotNetCoreWebApp.deps.json
+c:\users\vimimrot\documents\visual studio 2017\Projects\AspDotNetCoreWebApp\AspDotNetCoreWebApp\bin\Debug\netcoreapp1.1\AspDotNetCoreWebApp.runtimeconfig.json
+c:\users\vimimrot\documents\visual studio 2017\Projects\AspDotNetCoreWebApp\AspDotNetCoreWebApp\bin\Debug\netcoreapp1.1\AspDotNetCoreWebApp.runtimeconfig.dev.json
+c:\users\vimimrot\documents\visual studio 2017\Projects\AspDotNetCoreWebApp\AspDotNetCoreWebApp\bin\Debug\netcoreapp1.1\AspDotNetCoreWebApp.dll
+c:\users\vimimrot\documents\visual studio 2017\Projects\AspDotNetCoreWebApp\AspDotNetCoreWebApp\bin\Debug\netcoreapp1.1\AspDotNetCoreWebApp.pdb
+c:\users\vimimrot\documents\visual studio 2017\Projects\AspDotNetCoreWebApp\AspDotNetCoreWebApp\obj\Debug\netcoreapp1.1\AspDotNetCoreWebApp.csprojResolveAssemblyReference.cache
+c:\users\vimimrot\documents\visual studio 2017\Projects\AspDotNetCoreWebApp\AspDotNetCoreWebApp\obj\Debug\netcoreapp1.1\AspDotNetCoreWebApp.AssemblyInfo.cs
+c:\users\vimimrot\documents\visual studio 2017\Projects\AspDotNetCoreWebApp\AspDotNetCoreWebApp\obj\Debug\netcoreapp1.1\AspDotNetCoreWebApp.dll
+c:\users\vimimrot\documents\visual studio 2017\Projects\AspDotNetCoreWebApp\AspDotNetCoreWebApp\obj\Debug\netcoreapp1.1\AspDotNetCoreWebApp.pdb
